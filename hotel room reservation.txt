@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en"
+<title></title><center><h2><b>
+<body>
+<h1 style="background-color:red;">Cafe Foods
+<h2 style="font-family:verdana;">Hotel Rooms Reservation Form</h2>
+<body style="background-color:lightgreen;"></center>
+<h2 style="background-color:skyblue;">Rooms Booking process</h2></b>
+<h2><label for="name">Name:</label>
+<input id="name" type="text"/><br>
+<label for="mobile number">Mobile no:</label>
+<input id="Mobile no" type="numbers"/><br>
+<label for="Email">Email:</label>
+<input id="Email" type="text","numbers"/><br>
+<label for="Address">Address:</label>
+<input id="Address" type="text" size="height:50px","width:20px"/><br>
+<label for="DOB">DOB:</label>
+<input id="DOB" type="numbers"/><br>
+<label for="Date of booking">Date of booking:</label>
+<input id="Date of booking" type="numbers"/><br>
+<label for="No of Rooms booked">No of Rooms booked:</label>
+<input id="No of Rooms booked" type="numbers"/><br>
+<label for="No of days stayed in a Room">No of days stayed in a Room:</label>
+<input id="No of days stayed in a Room" type="numbers"/>
+<h3>Gender:<br>
+<input type="checkbox" id="Male",name="Male",value="Male">
+<label for="Male">Male</label><br>
+<input type="checkbox" id="Female",name="Female",value="Female">
+<label for="Female">Female</label><br>
+Room type:<br>
+<input type="checkbox" id="AC",name="AC",value="AC">
+<label for="AC">AC</label><br>
+<input type="checkbox" id="NON AC",name="NON AC",value="NON AC">
+<label for="NON AC">NON AC</label><br>
+<label for="Expected room price">Expected room price:</label>
+<input id="Expected room price" type="numbers"/>
+</body>
+</html>
